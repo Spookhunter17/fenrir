@@ -1,0 +1,21 @@
+[
+{
+  "modid": "fenrir",
+  "name": "fenrir",
+  "description": "For when you get lonely and dont have a box of tissues to hand.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Spookhunter17"
+  ],
+  "credits": "Cheers Minijack93 for fixing this when it breaks...",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
